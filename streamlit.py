@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="Rohit Ganti – Research Showcase", layout="wide")
 
 # ---- Header ----
-st.title("🚀 Research Showcase")
+st.title("Research Showcase")
 st.write("Submission for **Applied Math Software Engineer – Windborne Systems**")
 st.markdown("---")
 
@@ -82,10 +82,9 @@ st.markdown("---")
 
 # ---- Contact ----
 st.header("📬 Contact & Links")
-st.write("**Rohit Ganti**  ·  rohitganti@cmu.edu")
+st.write("**Rohit Ganti**  ·  soundwave.rohit@gmail.com")
 st.markdown(
-    "[GitHub](https://github.com/rohitganti) | "
-    "[LinkedIn](https://www.linkedin.com/in/rohitganti) | "
-    "[Resume (Google Drive)](https://drive.google.com/file/d/1ABCDEF123456789/view)"
+    "[GitHub](https://github.com/soundwaverohit) | "
+    "[LinkedIn](https://www.linkedin.com/in/rohit-ganti-64280a19b/) | "
+    "[Resume (Google Drive)](https://drive.google.com/file/d/18jlHGEJ3TX_e53n6tCwPEX7BEhiS5En5/view?usp=sharing)"
 )
-st.success("✅ This page can serve as your `submission_url` once deployed.")
